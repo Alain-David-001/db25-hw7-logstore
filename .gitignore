@@ -1,3 +1,5 @@
 # Ignore Python cache
 __pycache__/
 *.py[cod]
+# Ignore persistent log files
+test_data.log
